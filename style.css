@@ -1,0 +1,21 @@
+
+
+body {
+	text-align: center;
+}
+
+h1 {
+	color: pink;
+	font-size: 50px;
+	font-family: comic sans MS;
+}
+
+h2 {
+	color: blue;
+	font-size: 25px;
+	font-family: comic sans MS;
+}
+
+ul {
+	list-style-type: none;
+}
